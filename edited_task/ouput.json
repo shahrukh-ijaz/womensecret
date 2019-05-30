@@ -1,0 +1,126 @@
+{
+    "retailer_sku":"4331664",
+    "lang":"es",
+    "uuid":null,
+    "trail":[
+        [
+            "",
+            "https://womensecret.com/es/es/home"
+        ],
+        [
+            "Sin tirantes",
+            "https://womensecret.com/es/es/sujetadores/sin-tirantes"
+        ]
+    ],
+    "gender":"women",
+    "category":[
+        "Sujetadores",
+        "Sin tirantes",
+        "Sujetador bandeau sin aros"
+    ],
+    "industry":null,
+    "brand":"Women's Secret",
+    "url":"https://womensecret.com/es/es/sujetadores/sin-tirantes/sujetador-bandeau-sin-aros/4331664.html",
+    "date":1558979283,
+    "market":"ES",
+    "retailer":"womensecret-es",
+    "product_hash":"e1aea0ae0fe07cb830e8e6b6",
+    "crawl_id":"womensecret-es-20190527-1558979223-yfmp",
+    "url_original":"https://womensecret.com/es/es/sujetadores/sin-tirantes/sujetador-bandeau-sin-aros/4331664.html",
+    "name":"Sujetador bandeau sin aros",
+    "description":[
+        "Sujetador bandeau sin aros y el\u00e1stico.",
+        "Costura para no aplanar el pecho y varillas laterales.",
+        "Sin cierre, se pone como una camiseta.",
+        "No se admite ni cambios ni devoluciones.",
+        "Ref. 4331664"
+    ],
+    "care":[
+        "93%",
+        "poliester",
+        "7%",
+        "elastano"
+    ],
+    "merch_info":[
+
+    ],
+    "image_urls":[
+        "https://womensecret.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ws-master-catalog/default/dw39b89e76/images/hi-res/P_433166401FM.jpg?sw=2000&sh=2000&sm=fit",
+        "https://womensecret.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ws-master-catalog/default/dw2079adc6/images/hi-res/P_433166401TM.jpg?sw=2000&sh=2000&sm=fit",
+        "https://womensecret.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ws-master-catalog/default/dwc68dd112/images/hi-res/P_433166401D1.jpg?sw=2000&sh=2000&sm=fit",
+        "https://womensecret.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ws-master-catalog/default/dwebaddafd/images/hi-res/P_433166499FM.jpg?sw=2000&sh=2000&sm=fit",
+        "https://womensecret.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ws-master-catalog/default/dw9a318793/images/hi-res/P_433166499TM.jpg?sw=2000&sh=2000&sm=fit",
+        "https://womensecret.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ws-master-catalog/default/dwb805012f/images/hi-res/P_433166499D1.jpg?sw=2000&sh=2000&sm=fit",
+        "https://womensecret.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ws-master-catalog/default/dw89ddad26/images/hi-res/P_433166437FM.jpg?sw=2000&sh=2000&sm=fit",
+        "https://womensecret.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ws-master-catalog/default/dw50e415d1/images/hi-res/P_433166437D2.jpg?sw=2000&sh=2000&sm=fit"
+    ],
+    "skus":[
+        {
+            "price":995,
+            "currency":"EUR",
+            "colour":"Blanco",
+            "size":"S",
+            "sku_id":"Blanco_S"
+        },
+        {
+            "price":995,
+            "currency":"EUR",
+            "colour":"Blanco",
+            "size":"M",
+            "sku_id":"Blanco_M"
+        },
+        {
+            "price":995,
+            "currency":"EUR",
+            "colour":"Blanco",
+            "size":"L",
+            "sku_id":"Blanco_L"
+        },
+        {
+            "price":995,
+            "currency":"EUR",
+            "colour":"Nude",
+            "size":"S",
+            "sku_id":"Nude_S"
+        },
+        {
+            "price":995,
+            "currency":"EUR",
+            "colour":"Nude",
+            "size":"M",
+            "sku_id":"Nude_M"
+        },
+        {
+            "price":995,
+            "currency":"EUR",
+            "colour":"Nude",
+            "size":"L",
+            "sku_id":"Nude_L"
+        },
+        {
+            "price":995,
+            "currency":"EUR",
+            "colour":"Negro",
+            "size":"S",
+            "sku_id":"Negro_S"
+        },
+        {
+            "price":995,
+            "currency":"EUR",
+            "colour":"Negro",
+            "size":"M",
+            "sku_id":"Negro_M"
+        },
+        {
+            "price":995,
+            "currency":"EUR",
+            "colour":"Negro",
+            "size":"L",
+            "sku_id":"Negro_L"
+        }
+    ],
+    "price":995,
+    "currency":"EUR",
+    "spider_name":"womensecret-es-crawl",
+    "crawl_start_time":"2019-05-27T17:47:23.932676"
+}
